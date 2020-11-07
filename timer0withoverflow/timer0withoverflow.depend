@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604564967 source:c:\users\training\documents\embeddedc\timer0withoverflow\fuse.c
+	<avr/io.h>
+
+1604568111 source:c:\users\training\documents\embeddedc\timer0withoverflow\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
