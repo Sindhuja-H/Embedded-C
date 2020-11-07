@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604383668 source:c:\users\training\documents\embeddedc\project1\fuse.c
+	<avr/io.h>
+
+1604553614 source:c:\users\training\documents\embeddedc\project1\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+
+1604553326 source:c:\users\training\documents\embeddedc\project1\port.c
+	<avr/io.h>
+	<avr/interrupt.h>
+
