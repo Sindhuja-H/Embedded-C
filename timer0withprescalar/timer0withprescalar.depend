@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1604559057 source:c:\users\training\documents\embeddedc\timer0withprescalar\fuse.c
+	<avr/io.h>
+
